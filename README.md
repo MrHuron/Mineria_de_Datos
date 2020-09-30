@@ -2,4 +2,4 @@
 
 ## Fase_1
 
-*[Mapa_Mental_1]
+* [Mapa_Mental_1]
