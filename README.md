@@ -8,3 +8,7 @@
 * [Mapa_Mental_2](https://github.com/MrHuron/Mineria_de_Datos/blob/master/MapaMental_2_%7B1395501%7D_gpo012.pdf)
 * [Resumenes](https://github.com/MrHuron/Mineria_de_Datos/blob/master/Resumenes.pdf)
 * [Clase_Prediccion](https://github.com/MrHuron/Mineria_de_Datos/blob/master/CLASE_PREDICION.pdf)
+
+## Fase_2
+
+*[Base_de_Datos]()
