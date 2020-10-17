@@ -12,4 +12,4 @@
 ## Fase_2
 
 * [Base_de_Datos](https://github.com/MrHuron/Mineria_de_Datos/blob/master/mineria_Base_de_Datos.pdf)
-* [Ejercicios]()
+* [Ejercicios_de_Python_(Basicos)](https://github.com/MrHuron/Mineria_de_Datos/blob/master/PythonBasico_1395501.ipynb)
