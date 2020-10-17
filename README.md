@@ -12,3 +12,4 @@
 ## Fase_2
 
 * [Base_de_Datos](https://github.com/MrHuron/Mineria_de_Datos/blob/master/mineria_Base_de_Datos.pdf)
+* [Ejercicios]()
